@@ -1,3 +1,3 @@
-for i in range(10):
-  print("hello world")
-print("hey")
+for i in range(8):
+  print("hello world!")
+print("hi")
